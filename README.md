@@ -10,3 +10,5 @@ trying to commit over a commit
 multi commit on the other side
 multi commit on this side
 multicommit on this side
+another commit here
+multicommit on this side)
