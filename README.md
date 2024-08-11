@@ -7,3 +7,4 @@ trouble brewing didnt pull
 multi commit coming up
 another commit
 trying to commit over a commit
+multi commit on the other side
